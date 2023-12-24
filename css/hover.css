@@ -1,0 +1,84 @@
+.number-email .div1:hover *,
+.div2:hover * {
+    color: gray !important;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.header-social a i:hover {
+    font-size: 27px;
+}
+
+.header-social .fa-whatsapp:hover {
+    background-color: green;
+    color: white;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+.header-social .fa-instagram:hover {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    color: white;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+
+
+.road6 .parent div:hover {
+    background-color: rgb(255, 127, 35);
+    color: white;
+    margin-top: -20px;
+}
+
+.road6 .parent div:hover i {
+    color: white;
+}
+
+.mn .sd:hover {
+    width: 105px;
+    height: 105px;
+    border: 2px solid orange;
+}
+
+.menu ul li a:hover {
+    color: gray;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+.company-name a h1:hover {
+    font-size: 31px;
+    letter-spacing: 1px;
+    color: gray;
+}
+
+.box-hover:hover {
+    /* width: 290px; */
+    /* height: 340px; */
+    margin-top: -30px;
+    /* background-color: rgb(178, 229, 247); */
+}
+
+input[type="submit"]:hover {
+    background-color: rgb(109, 109, 109);
+    letter-spacing: 1px;
+}
+
+.addres .phone:hover *,
+.addres .email:hover * {
+    font-size: 19px;
+}
+
+.why_child:hover {
+    background-color: rgb(248, 248, 248);
+}
+
+.resum-fix:hover {
+    padding: 9px;
+    letter-spacing: 1px;
+}
+
+.whats-fix i:hover {
+    font-size: 50px;
+}
